@@ -1,6 +1,6 @@
-Nama: Reyhan Oktavian Putra
-NIM: 123140202
-Screenshot Aplikasi:
+Nama: Reyhan Oktavian Putra 
+NIM: 123140202 
+Screenshot Aplikasi: 
 * Sebelum "click me"
 <img width="385" height="304" alt="Screenshot 2026-02-08 134755" src="https://github.com/user-attachments/assets/731a081d-4462-4b7e-9dac-f41d5278bea9" />
 
